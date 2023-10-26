@@ -24,7 +24,6 @@ int main() {
 		cout << "has no run: ";
 	}
 	displayRun(tosses, 20);
-
 }
 
 void displayRun(int values[], int size) {
